@@ -1,0 +1,13 @@
+C:\Users\dom__\source\repos\IntrepidTravel2\IntrepidTravel2\bin\Debug\netcoreapp3.1\IntrepidTravel2.exe
+C:\Users\dom__\source\repos\IntrepidTravel2\IntrepidTravel2\bin\Debug\netcoreapp3.1\IntrepidTravel2.deps.json
+C:\Users\dom__\source\repos\IntrepidTravel2\IntrepidTravel2\bin\Debug\netcoreapp3.1\IntrepidTravel2.runtimeconfig.json
+C:\Users\dom__\source\repos\IntrepidTravel2\IntrepidTravel2\bin\Debug\netcoreapp3.1\IntrepidTravel2.runtimeconfig.dev.json
+C:\Users\dom__\source\repos\IntrepidTravel2\IntrepidTravel2\bin\Debug\netcoreapp3.1\IntrepidTravel2.dll
+C:\Users\dom__\source\repos\IntrepidTravel2\IntrepidTravel2\bin\Debug\netcoreapp3.1\IntrepidTravel2.pdb
+C:\Users\dom__\source\repos\IntrepidTravel2\IntrepidTravel2\obj\Debug\netcoreapp3.1\IntrepidTravel2.csprojAssemblyReference.cache
+C:\Users\dom__\source\repos\IntrepidTravel2\IntrepidTravel2\obj\Debug\netcoreapp3.1\IntrepidTravel2.AssemblyInfoInputs.cache
+C:\Users\dom__\source\repos\IntrepidTravel2\IntrepidTravel2\obj\Debug\netcoreapp3.1\IntrepidTravel2.AssemblyInfo.cs
+C:\Users\dom__\source\repos\IntrepidTravel2\IntrepidTravel2\obj\Debug\netcoreapp3.1\IntrepidTravel2.csproj.CoreCompileInputs.cache
+C:\Users\dom__\source\repos\IntrepidTravel2\IntrepidTravel2\obj\Debug\netcoreapp3.1\IntrepidTravel2.dll
+C:\Users\dom__\source\repos\IntrepidTravel2\IntrepidTravel2\obj\Debug\netcoreapp3.1\IntrepidTravel2.pdb
+C:\Users\dom__\source\repos\IntrepidTravel2\IntrepidTravel2\obj\Debug\netcoreapp3.1\IntrepidTravel2.genruntimeconfig.cache
